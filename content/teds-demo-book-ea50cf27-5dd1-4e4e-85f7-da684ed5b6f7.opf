@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>Ted's Demo Book</dc:title>
   </metadata>
-  <manifest><item href="teds-demo-book-68d8e1be-45d3-4383-bfe4-744150c9b190-nav.html" id="teds-demo-book-68d8e1be-45d3-4383-bfe4-744150c9b190-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <manifest><item href="teds-demo-book-68d8e1be-45d3-4383-bfe4-744150c9b190-nav.html" id="teds-demo-book-68d8e1be-45d3-4383-bfe4-744150c9b190-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="chapter-2-3afe713c-5810-487e-9837-d205a6a47699.html" id="chapter-2-3afe713c-5810-487e-9837-d205a6a47699.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
